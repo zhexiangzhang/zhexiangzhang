@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zhexiang Zhang
 
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${zhexiangzhangDIKU})
+![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${zhexiangzhang/zhexiangzhang})
 
 <!--
 **zhexiangzhang/zhexiangzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
