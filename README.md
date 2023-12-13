@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Zhexiang Zhang
 
+![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${zhexiangzhangDIKU})
+
 <!--
 **zhexiangzhang/zhexiangzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${zhexiangzhangDIKU})
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
