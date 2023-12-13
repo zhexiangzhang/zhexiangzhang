@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Zhexiang Zhang
 
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${/zhexiangzhang})
-![](https://komarev.com/ghpvc/?username=zhexiangzhang)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=zhexiangzhang)
 <!--
 **zhexiangzhang/zhexiangzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
