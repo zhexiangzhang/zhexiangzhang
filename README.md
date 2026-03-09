@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Zhexiang Zhang
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=zhexiangzhang)
 <!--
 **zhexiangzhang/zhexiangzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
